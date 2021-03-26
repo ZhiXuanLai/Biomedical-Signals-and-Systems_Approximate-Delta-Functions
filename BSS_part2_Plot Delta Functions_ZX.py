@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-2018/10/31 HW3
-Plot the window functions to approximate the delta function.
+2018/10/31 
+Aapproximate the delta functions using window functions.
 
 """
 
